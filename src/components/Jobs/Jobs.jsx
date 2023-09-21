@@ -1,9 +1,9 @@
+
+
 const Jobs = ({ job }) => {
-  console.log(job);
-  const {company_name, logo, job_title, location, job_type, salary
-  } = job
+  const {company_name, logo, job_title, location, job_type, salary} = job
   return (
-      <div className="card  bg-base-100 shadow-xl">
+      <div className="card  bg-base-100 shadow-xl my-4">
         <div className="flex justify-center mt-3">
             <img src={logo} alt="" />
         </div>

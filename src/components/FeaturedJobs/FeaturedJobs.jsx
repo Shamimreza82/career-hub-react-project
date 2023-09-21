@@ -10,7 +10,7 @@ const FeaturedJobs = () => {
     },[])
 
     return (
-        <div className="lg:min-h-[400px] text-center space-y-4 lg:w-[80%] m-auto">
+        <div className="lg:min-h-[400px] text-center space-y-4 w-[80%] m-auto">
             <h1 className="text-4xl font-bold">Featured Jobs</h1>
             <p>Explore thousands of job opportunities with all the information you need. Its your future</p> 
             <div className="grid grid-cols-3 gap-5">
