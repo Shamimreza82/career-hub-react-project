@@ -1,4 +1,3 @@
-import React from 'react';
 import Banner from '../Banner/Banner';
 import JobCategory from '../JobCategorys/JobCategorys';
 import FeaturedJobs from '../FeaturedJobs/FeaturedJobs';
